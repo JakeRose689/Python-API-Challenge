@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 #Protecting my API keys
-**/config
+**/config.py
